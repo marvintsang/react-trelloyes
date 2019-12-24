@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`smoke test snap test 1`] = `
+<div
+  className="Card"
+  id="one"
+>
+  <button
+    type="button"
+  >
+    Delete
+  </button>
+  <h3>
+    thetitle
+  </h3>
+  <p>
+    thecontent
+  </p>
+</div>
+`;
